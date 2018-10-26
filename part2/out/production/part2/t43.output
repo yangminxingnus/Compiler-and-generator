@@ -1,0 +1,3 @@
+running e2j t43
+mustbe: want TK.ID, got Token(TK.PRINT ! 5)
+can't parse: line 5 missing token (mustbe)

@@ -1,0 +1,4 @@
+running e2j t07
+Token(TK.ID a 2)
+Token(TK.NUM 12 2)
+Token(TK.EOF *EOF* 3)

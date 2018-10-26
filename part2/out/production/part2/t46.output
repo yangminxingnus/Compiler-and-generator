@@ -1,0 +1,3 @@
+running e2j t46
+mustbe: want TK.ID, got Token(TK.ASSIGN = 13)
+can't parse: line 13 missing token (mustbe)

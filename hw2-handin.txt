@@ -1,0 +1,49 @@
+=================
+Handin Directions
+=================
+
+Please follow these directions *exactly*.
+
+1. Prepare the files that you want to turn in.  Make a new directory,
+   say named "HW", then "cd HW".  
+
+   In this HW directory, include a README file indicating what you
+   think works and does not work for your assignment.  In this file,
+   explain any peculiarities in your implementation.  In addition,
+   also includes part5 as indicated in the handout.
+
+   IMPORTANT: The first line of README should have EACH team member's
+   name and student id, e.g.
+       
+       John Doe, 888888888
+       Jane Roe, 999999999
+   
+   Into this HW directory, copy each of the part.  In your HW
+   directory, you will have 4 directories: part1, part2, part3, and 
+   part4.
+
+   If your program does not fully work, turn in the last working part
+   along with your attempt at the next part, and indicate this clearly
+   in the README file.
+
+   Remove files we don't need by:
+ 
+         make clean
+
+         rm t*.e *.correct *.output run run1 runall showdiffs
+
+         rm any other "junk" files you might have there.
+
+      (But, be sure that what you give us is still complete and working
+      as well as it did for you!)
+
+
+2. In the HW directory, type in the command
+
+      zip -r hw2 *
+
+   This will create a file named hw2.zip containing the directories
+   part1 ... part4 and the README file. 
+
+3. Submit your hw2.zip file to Canvas.
+
